@@ -1,4 +1,4 @@
-# GotYou_REACT_PROJECT
+# GotYou REACT_PROJECT
 
 **gotYou** is a simple and intuitive to-do list app built with React. It allows users to easily manage their tasks by adding titles and content to create a list of activities. Users can mark activities as completed and delete them when they're done.
 
